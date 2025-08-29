@@ -2,7 +2,9 @@
 This project is a **Spotify Clone UI** built using **HTML,CSS and Bootstrap**
 It was created as practice project to improve my front-end devlopment skills and learn how to structure responsive web pages with Bootstrap.
 
+
 ##🚀Features
+
 -Navigation Bar.🔍
 -Recently Played Section 📂
 -Treading Now section.
