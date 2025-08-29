@@ -9,6 +9,6 @@ Navigation Bar.🔍
 Recently Played Section 📂
 (Treading Now section)
 (Top 50 Global Playlist)
-Music Player Bar 🎶
+Music Player Bar🎶
 Responsive Layout 📱
 Spotify-like Dark theme 🎨
