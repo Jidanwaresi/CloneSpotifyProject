@@ -5,10 +5,10 @@ It was created as practice project to improve my front-end devlopment skills and
 
 ##🚀Features
 
--Navigation Bar.🔍
--Recently Played Section 📂
--Treading Now section.
--Top 50 Global Playlist.
--Music Player Bar 🎶
--Responsive Layout 📱
-- Spotify-like Dark theme 🎨
+Navigation Bar.🔍
+Recently Played Section 📂
+(Treading Now section)
+(Top 50 Global Playlist)
+Music Player Bar 🎶
+Responsive Layout 📱
+Spotify-like Dark theme 🎨
