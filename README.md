@@ -4,7 +4,6 @@ It was created as practice project to improve my front-end devlopment skills and
 
 
 ##🚀Features
-
 Navigation Bar.🔍
 Recently Played Section 📂
 (Treading Now section)
